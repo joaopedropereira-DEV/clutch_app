@@ -2,6 +2,7 @@
 
 ![clutch_app_image](https://user-images.githubusercontent.com/91147917/151645649-15145f60-d921-46bc-acd9-0b22eb060807.jpg)
 
+Design inspired by [**Taras Migulko**](https://dribbble.com/shots/15781810-Clutch-App-mobile-app-design)
 
 A new Flutter project.
 
